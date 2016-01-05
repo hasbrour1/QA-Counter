@@ -1,0 +1,9 @@
+c:\users\hasbrouckr\documents\visual studio 2013\Projects\QA-Counter\QA-Counter\bin\Debug\QA-Counter.exe.config
+c:\users\hasbrouckr\documents\visual studio 2013\Projects\QA-Counter\QA-Counter\bin\Debug\QA-Counter.exe
+c:\users\hasbrouckr\documents\visual studio 2013\Projects\QA-Counter\QA-Counter\bin\Debug\QA-Counter.pdb
+c:\users\hasbrouckr\documents\visual studio 2013\Projects\QA-Counter\QA-Counter\obj\Debug\QA-Counter.csprojResolveAssemblyReference.cache
+c:\users\hasbrouckr\documents\visual studio 2013\Projects\QA-Counter\QA-Counter\obj\Debug\QA_Counter.Form1.resources
+c:\users\hasbrouckr\documents\visual studio 2013\Projects\QA-Counter\QA-Counter\obj\Debug\QA_Counter.Properties.Resources.resources
+c:\users\hasbrouckr\documents\visual studio 2013\Projects\QA-Counter\QA-Counter\obj\Debug\QA-Counter.csproj.GenerateResource.Cache
+c:\users\hasbrouckr\documents\visual studio 2013\Projects\QA-Counter\QA-Counter\obj\Debug\QA-Counter.exe
+c:\users\hasbrouckr\documents\visual studio 2013\Projects\QA-Counter\QA-Counter\obj\Debug\QA-Counter.pdb
